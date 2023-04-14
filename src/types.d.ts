@@ -3,11 +3,12 @@ export interface Emoji {
   symbol: string;
   name: string;
   category?: string;
-  clueIds?: string[];
+  clueKeys?: string[];
 }
 
 export interface Clue {
   key: string;
   text: string;
-  emojiIds: string[];
+  theme: string;
+  emojiKeys: string[];
 }
