@@ -2599,5 +2599,132 @@ export const emojidata: Emoji[] = [
     symbol: '💼',
     category: 'people',
   },
+  {
+    key: '433',
+    name: 'jeans',
+    symbol: '👖',
+    category: 'people',
+  },
+  {
+    key: '434',
+    name: 'dress',
+    symbol: '👗',
+    category: 'people',
+  },
+  {
+    key: '435',
+    name: 'kimono',
+    symbol: '👘',
+    category: 'people',
+  },
+  {
+    key: '436',
+    name: 'bikini',
+    symbol: '👙',
+    category: 'people',
+  },
+  {
+    key: '437',
+    name: 'womans_clothes',
+    symbol: '👚',
+    category: 'people',
+  },
+  {
+    key: '438',
+    name: 'purse',
+    symbol: '👛',
+    category: 'people',
+  },
+  {
+    key: '439',
+    name: 'handbag',
+    symbol: '👜',
+    category: 'people',
+  },
+  {
+    key: '440',
+    name: 'pouch',
+    symbol: '👝',
+    category: 'people',
+  },
+  {
+    key: '441',
+    name: 'mans_shoe',
+    symbol: '👞',
+    category: 'people',
+  },
+  {
+    key: '442',
+    name: 'athletic_shoe',
+    symbol: '👟',
+    category: 'people',
+  },
+  {
+    key: '443',
+    name: 'high_heel',
+    symbol: '👠',
+    category: 'people',
+  },
+  {
+    key: '444',
+    name: 'sandal',
+    symbol: '👡',
+    category: 'people',
+  },
+  {
+    key: '445',
+    name: 'boot',
+    symbol: '👢',
+    category: 'people',
+  },
+  {
+    key: '446',
+    name: 'footprints',
+    symbol: '👣',
+    category: 'people',
+  },
+  {
+    key: '447',
+    name: 'bust_in_silhouette',
+    symbol: '👤',
+    category: 'people',
+  },
+  {
+    key: '448',
+    name: 'busts_in_silhouette',
+    symbol: '👥',
+    category: 'people',
+  },
+  {
+    key: '449',
+    name: 'baby',
+    symbol: '👶',
+    category: 'people',
+  },
+  {
+    key: '450',
+    name: 'kidboy',
+    symbol: '👦',
+    category: 'people',
+  },
+  {
+    key: '451',
+    name: 'kidgirl',
+    symbol: '👧',
+    category: 'people',
+  },
+  {
+    key: '452',
+    name: 'man',
+    symbol: '👨',
+    category: 'people',
+  },
+  {
+    key: '453',
+    name: 'woman',
+    symbol: '👩',
+    category: 'people',
+  }
+
   
 ]
