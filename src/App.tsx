@@ -3,10 +3,11 @@ import Grid from './components/Grid/Grid'
 import './App.css'
 import { getRandomEmoji } from './utils'
 import { emojidata } from './emojidata'
+import Cluelist from './components/Cluelist/Cluelist'
+import { cluedata } from './cluedata'
 
 
 function App() {
-  // const [count, setCount] = useState(0)
 
   useEffect(() => {
   console.log(getRandomEmoji(emojidata), "random emoji")
@@ -14,13 +15,13 @@ function App() {
 
   return (
     <div className="App">
+      <div className='app-container'>
       <h1>Emojination!</h1>
-      {/* <div className="card"> */}
-        {/* <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button> */}
-      {/* </div> */}
-      <Grid />
+      <div className='game-container'>
+        <Grid />
+        <Cluelist clues={cluedata} />
+        </div>
+      </div>
     </div>
   )
 }

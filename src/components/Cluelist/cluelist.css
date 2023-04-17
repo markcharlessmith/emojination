@@ -1,0 +1,7 @@
+.cluelist {
+  border: 1px solid black;
+  /* padding-bottom: 2rem;  */
+  margin-left: 10px;
+  height: 100%;
+  border-radius: 5px;
+}

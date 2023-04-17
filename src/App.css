@@ -18,6 +18,30 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+/* added these */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.game-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  margin-bottom: auto;
+  padding-bottom: 2rem;
+  margin-top: none;
+  padding-top: 2rem;
+  padding-left: 2rem;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);

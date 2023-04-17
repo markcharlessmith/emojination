@@ -14,5 +14,3 @@ export const cluedata: Clue[] = [
     emojiKeys: ['161', '430', '432']
   },
 ]
-
-// console.log(cluedata[1].emojiKeys)
