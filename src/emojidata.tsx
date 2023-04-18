@@ -2724,7 +2724,121 @@ export const emojidata: Emoji[] = [
     name: 'woman',
     symbol: '👩',
     category: 'people',
-  }
-
+  },
+  {
+    key: '454',
+    name: 'family',
+    symbol: '👪',
+    category: 'people',
+  },
+  {
+    key: '455',
+    name: 'couple',
+    symbol: '👫',
+    category: 'people',
+  },
+  {
+    key: '456',
+    name: 'twomales',
+    symbol: '👬',
+    category: 'people',
+  },
+  {
+    key: '457',
+    name: 'twofemales',
+    symbol: '👭',
+    category: 'people',
+  },
+  {
+    key: '458',
+    name: 'cop',
+    symbol: '👮',
+    category: 'people',
+  },
+  {
+    key: '459',
+    name: 'dancers',
+    symbol: '👯',
+    category: 'people',
+  },
+  {
+    key: '460',
+    name: 'bride_with_veil',
+    symbol: '👰',
+    category: 'people',
+  },
+  {
+    key: '461',
+    name: 'person_with_blond_hair',
+    symbol: '👱',
+    category: 'people',
+  },
+  {
+    key: '462',
+    name: 'guapimao',
+    symbol: '👲',
+    category: 'people',
+  },
+  {
+    key: '463',
+    name: 'policewoman',
+    symbol: '👮‍♀️',
+    category: 'people',
+  },
+  {
+    key: '464',
+    name: 'punch',
+    symbol: '👊',
+    category: 'people',
+  },
+  {
+    key: '465',
+    name: 'siren',
+    symbol: '🚨',
+    category: 'people',
+  },
+  {
+    key: '466',
+    name: 'doctor',
+    symbol: '👨‍⚕️',
+    category: 'people',
+  },
+  {
+    key: '467',
+    name: 'nurse',
+    symbol: '👩‍⚕️',
+    category: 'people',
+  },
+  {
+    key: '468',
+    name: 'construction_worker',
+    symbol: '👷',
+    category: 'people',
+  },
+  {
+    key: '469',
+    name: 'guardsman',
+    symbol: '💂',
+    category: 'people',
+  },
+  {
+    key: '470',
+    name: 'livelongandprosper',
+    symbol: '🖖',
+    category: 'people',
+  },
+  {
+    key: '471',
+    name: 'rocket',
+    symbol: '🚀',
+    category: 'people',
+  },
+  {
+    key: '472',
+    name: 'alien',
+    symbol: '👽',
+    category: 'people',
+  },
+  
   
 ]
