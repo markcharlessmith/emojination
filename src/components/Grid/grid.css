@@ -22,3 +22,6 @@
   background-color: #6f8bfb;
 }
 
+.square.selected {
+  background-color: #fcd070;
+}

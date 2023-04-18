@@ -2840,5 +2840,4 @@ export const emojidata: Emoji[] = [
     category: 'people',
   },
   
-  
 ]

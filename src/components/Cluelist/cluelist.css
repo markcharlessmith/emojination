@@ -5,3 +5,7 @@
   height: 100%;
   border-radius: 5px;
 }
+
+.cluelist .clue-selected {
+  background-color: #ffc107;
+}
