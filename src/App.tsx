@@ -8,6 +8,7 @@ import { cluedata } from './cluedata'
 
 
 function App() {
+  // const [selectedSquares, setSelectedSquares] = useState([])
 
   useEffect(() => {
   console.log(getRandomEmoji(emojidata), "random emoji")

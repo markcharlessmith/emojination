@@ -2839,5 +2839,59 @@ export const emojidata: Emoji[] = [
     symbol: '👽',
     category: 'people',
   },
-  
+  {
+    key: '473',
+    name: 'bagel',
+    symbol: '🥯',
+    category: 'food',
+  },
+  {
+    key: '474',
+    name: 'pretzel',
+    symbol: '🥨',
+    category: 'food',
+  },
+  {
+    key: '475',
+    name: 'donut',
+    symbol: '🍩',
+    category: 'food',
+  },
+  {
+    key: '476',
+    name: 'ladder',
+    symbol: '🪜',
+    category: 'objects',
+  },
+  {
+    key: '477',
+    name: 'honey',
+    symbol: '🍯',
+    category: 'food',
+  },
+  {
+    key: '478',
+    name: 'squirrel',
+    symbol: '🐿',
+    category: 'animals',  
+  },
+  {
+    key: '479',
+    name: 'scrambled_eggs',
+    symbol: '🍳',
+    category: 'food',
+  },
+  {
+    key: '480',
+    name: 'bacon',
+    symbol: '🥓',
+    category: 'food',
+  },
+  {
+    key: '481',
+    name: 'butterfly',
+    symbol: '🦋',
+    category: 'animals',
+  },
+        
 ]
